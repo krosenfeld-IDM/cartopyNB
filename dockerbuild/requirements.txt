@@ -1,0 +1,4 @@
+pyshp
+packaging
+shapely
+cartopy
